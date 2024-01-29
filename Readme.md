@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java Full StackDevlopment and  Frameworks**
 
-- 👯 I’m looking to collaborate on **Javascript Project**
+- 👯 I’m looking to collaborate on **Java Full StackDevlopment**
 
 - 💬 Ask me about **ReactJS**
 
