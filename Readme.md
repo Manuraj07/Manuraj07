@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manoranjan Kumar Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 
 - 🌱 I’m currently learning **Java Full StackDevlopment and  Frameworks**
 
-- 👯 I’m looking to collaborate on **Java Full StackDevlopment**
+- 👯 I’m looking to collaborate on **Java Full Stack Devlopment**
 
 - 💬 Ask me about **ReactJS**
 
